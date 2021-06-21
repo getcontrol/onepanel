@@ -1,4 +1,4 @@
-'''This script goes along the blog post
+This script goes along the blog post
 "Building powerful image classification models using very little data"
 from blog.keras.io.
 It uses data that can be downloaded at:
